@@ -1,4 +1,7 @@
 import prompt from "prompt-sync" 
-let app = prompt();
-let n = app('How many more times?');
+let input = prompt();
+console.log('\t Ingrese el nombre');
+let nombre = imput();
+console.log("Ingrese la edad");
+let edad =  
 console.log(n);
